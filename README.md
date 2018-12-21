@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2>1. 동영상을 이용한 그림강좌</h2>
 
-Things you may want to cover:
+![title](/img/1.png)
 
-* Ruby version
+![title](/img/2.png)
 
-* System dependencies
+![title](/img/3.png)
 
-* Configuration
+![title](/img/4.png)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
